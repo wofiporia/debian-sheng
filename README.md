@@ -141,3 +141,4 @@ This project benefits from the following outstanding work and community support:
 
 - **map220v** – for TWRP, the mainline kernel port and many device-specific adaptations that make Linux run on the Xiaomi Pad 6S Pro (sheng).
 - **alghiffaryfa19** – for providing the original build scripts, from which this project is derived and modified.
+ 
